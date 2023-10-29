@@ -43,3 +43,9 @@ footer{
 	color :  #b3b3b3;
 	margin-top : 10px;
 }
+.links span {
+	color :  white;
+	text-decoration :  underline;
+	line-height: 1.5;
+	padding :  0px;
+}
