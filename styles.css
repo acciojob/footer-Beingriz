@@ -29,5 +29,15 @@
 }
 .link-boxes{
 	display :  flex;
-	
+	flex-wrap :  wrap;
+	justify-content :  space-between;
+	align-items :  center;
+}
+.links{
+	display :  flex;
+	flex-direction :  column;
+}
+.links a {
+	text-decoration :  none;
+	color :  
 }
